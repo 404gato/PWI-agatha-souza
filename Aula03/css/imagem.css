@@ -1,0 +1,18 @@
+.dimensao{
+    width: 400px;
+   border-radius: 130px;
+   box-shadow: 10px 10px 0px;
+   margin: auto;
+   display: block;
+   transition: transform .7s ease-in-out;
+}
+
+.dimensao:hover{
+    transform: rotate(10deg);
+}
+
+
+
+img{
+border: solid 5px #000;
+}

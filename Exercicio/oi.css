@@ -1,0 +1,33 @@
+.imagemArrombada{
+    width: 500px;
+}
+
+.exemploClass{
+    color: rgb(253, 2, 211);
+    text-shadow: 1px 1px 5px rgb(228, 105, 173);
+}
+
+body{
+    background-color: rgb(247, 218, 223);
+}
+
+img{
+    transition: 1.5s;
+}
+
+img:hover{
+    border-radius: 50px
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
