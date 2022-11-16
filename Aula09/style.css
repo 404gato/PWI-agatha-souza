@@ -19,11 +19,11 @@ p {
 }
 
 .azul {
-    color: blue;
+    color: rgb(250, 131, 204);
 }
 
 #dois {
-    background-color: rgb(11, 33, 131);
+    background-color: rgb(255, 154, 205);
     width: 100px;
     height: 50px;
     border-radius: 50px;
