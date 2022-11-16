@@ -3,7 +3,7 @@ const demo = document.getElementById("demo")
 const dois = document.getElementById("dois")
 
 
-let text = "Bruno Gonçales Coelho de Sousa"
+let text = "Agatha Alberico de Souza"
 let part = text.slice(-5)
 let tamanho = text.length
 document.getElementById("demo").innerHTML = part ;
